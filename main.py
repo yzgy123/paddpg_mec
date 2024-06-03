@@ -7,7 +7,6 @@ import torch
 
 
 if __name__ == '__main__':
-    np.random.seed(1)
     args = get_args()
     env, args = make_env(args)
     runner = Runner(args, env)
