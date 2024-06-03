@@ -1,2 +1,2 @@
-# MADDPG for mec environment
+# PADDPG for mec environment
 
